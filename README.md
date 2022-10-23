@@ -1,2 +1,2 @@
 # big-byte-league
-Coeissance
+Codeissance
